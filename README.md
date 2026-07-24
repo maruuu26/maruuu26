@@ -1,4 +1,10 @@
-## Hi there 👋
+𓂃˖˳·˖ ִֶָ ⋆🪷⋆ ִֶָ˖·˳˖𓂃 ִֶָ
+## 🤗 Hello, I'm Maruah!
+
+I'm a Computer Science student at Rutgers University building toward a career as a **software engineer with an AI/ML specialization**. What gets me excited is watching something I built actually get used, whether that's a tool people rely on or a model that turns raw data into a prediction someone can act on.
+  + 🌺
+
+## 
 
 <!--
 **maruuu26/maruuu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
