@@ -23,10 +23,14 @@ I'm a Computer Science student at Rutgers University building toward a career as
 + View Repo Here: [Knight-Bites](https://github.com/maruuu26/Knight-Bites)
 
 ## 👾 Tech Stack
-*Languages*
++*Languages*
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) 
-*Frameworks & Tools*
++*Frameworks & Tools*
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
+## 🦢 Fun Facts
+Outside of code, I draw and paint a lot, and I'm pretty into fashion too, enough that I joined my school's fashion magazine club as a web developer on their technical team. I'm generally just someone who likes learning things for the sake of it, tech-related or not, and I try to put that curiosity toward something useful. That curiosity is part of why I've stuck with Hack4Impact, where we build software and tools for nonprofits that need the extra support.
+𓂃˖˳·˖ ִֶָ ⋆🪷⋆ ִֶָ˖·˳˖𓂃 ִֶָ
 <!--
 **maruuu26/maruuu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
