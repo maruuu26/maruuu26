@@ -25,6 +25,7 @@ I'm a Computer Science student at Rutgers University building toward a career as
 ## 👾 Tech Stack
 +*Languages*
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) 
+
 +*Frameworks & Tools*
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
