@@ -5,7 +5,7 @@ I'm a Computer Science student at Rutgers University building toward a career as
   + 🌺 One of 4,300+ selected for Break Through Tech's AI Fellowship, a year of hands-on ML, real projects, and mentors worth learning from
   + 🪐 Writing backend code at Hack4Impact for a volunteer platform 100+ people actually use
   + 🦥 Coursework: Intro to AI, Design & Analysis of Algorithms, Data Structures, Software Methodology, Principles of Information and Data Management
-  + 🪷 How to reach me: [LinkedIn](http://www.linkedin.com/in/maruabedin) · [Email](abedin.maru@gmail.com)
+  + 🪷 How to reach me: [LinkedIn](http://www.linkedin.com/in/maruabedin) · [Email](mailto:abedin.maru@gmail.com)
 
 ## 📌 Featured Project
 **Fashion Item Classifier** - CNN based image classifier with live web interface
