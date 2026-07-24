@@ -30,6 +30,7 @@ I'm a Computer Science student at Rutgers University building toward a career as
 
 ## 🦢 Fun Facts
 Outside of code, I draw and paint a lot, and I'm pretty into fashion too, enough that I joined my school's fashion magazine club as a web developer on their technical team. I'm generally just someone who likes learning things for the sake of it, tech-related or not, and I try to put that curiosity toward something useful. That curiosity is part of why I've stuck with Hack4Impact, where we build software and tools for nonprofits that need the extra support.
+
 𓂃˖˳·˖ ִֶָ ⋆🪷⋆ ִֶָ˖·˳˖𓂃 ִֶָ
 <!--
 **maruuu26/maruuu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
